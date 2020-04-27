@@ -1,0 +1,26 @@
+{
+  "name": "four-card-feature-section",
+  "version": "1.0.0",
+  "description": "Frontend Mentor - Four card feature section challange",
+  "main": "index.html",
+  "scripts": {
+    "scss": "node-sass scss -o css",
+    "watch": "node-sass --watch scss -o css",
+    "server:php": "php -S localhost:3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armino-dev/four-card-feature-section.git"
+  },
+  "keywords": [
+    "css",
+    "html"
+  ],
+  "author": "Armino Popp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/armino-dev/four-card-feature-section/issues"
+  },
+  "homepage": "https://github.com/armino-dev/four-card-feature-section#readme"
+}
